@@ -1,5 +1,6 @@
 该仓库中内容是NACIT于2016年7月25—31日于美国圣地亚哥举行的Robosub竞赛的策略总控与图像处理源代码。
 本团队获得了全部48支队伍中的第11名，笔者是当时的策略总控与图像处理负责人。笔者自知功力浅薄，有待学习之处甚多，此时已经距离16年比赛时间甚远，所以此处提供当时的源码，供各路大神批评指正。
+参考地址：http://robonation.org/sites/default/files/RoboSub2016%20Summary%20Scores%20and%20Rankings.pdf
 
 # 文件说明
 - Final Control & ImageProcessing Programs of NACIT2016：策略总控与图像处理源代码
